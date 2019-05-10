@@ -1,19 +1,21 @@
 {
-  "launches": [
-    {
-        "id": "ZuJwz75d8Ayg7QiMGbDzrGB6cBiSrNTT",
-        "site": "Hello, world!",
-        "isBooked": true
-    },
-    {
-        "id": "ZuJwz75d8Ayg7QiMGbDzrGB6cBiSrNTT",
-        "site": "Hello, world!",
-        "isBooked": true
-    },
-    {
-        "id": "ZuJwz75d8Ayg7QiMGbDzrGB6cBiSrNTT",
-        "site": "Hello, world!",
-        "isBooked": true
-    }
-  ]
+  "launches": {
+      "launches": [
+      {
+          "id": "ZuJwz75d8Ayg7QiMGbDzrGB6cBiSrNTT",
+          "site": "Hello, world!",
+          "isBooked": true
+      },
+      {
+          "id": "ZuJwz75d8Ayg7QiMGbDzrGB6cBiSrNTT",
+          "site": "Hello, world!",
+          "isBooked": true
+      },
+      {
+          "id": "ZuJwz75d8Ayg7QiMGbDzrGB6cBiSrNTT",
+          "site": "Hello, world!",
+          "isBooked": true
+      }
+    ]
+  }
 }
